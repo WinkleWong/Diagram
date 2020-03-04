@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-04T03:53:00.357Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="cYFtk7yPp1LFeOw1v4Xx" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-04T04:00:16.312Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="qXF9daZ5LTSigPUGzHPw" version="12.7.9" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1312" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="7PXRdTP2mNgVB09aPx2Q-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#bac8d3;strokeColor=#23445d;" edge="1" parent="1c1d494c118603dd-2" source="7PXRdTP2mNgVB09aPx2Q-16" target="7PXRdTP2mNgVB09aPx2Q-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7PXRdTP2mNgVB09aPx2Q-16" value="发起用户信息授权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1c1d494c118603dd-2">
+        <mxCell id="7PXRdTP2mNgVB09aPx2Q-16" value="发起微信用户信息授权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1c1d494c118603dd-2">
           <mxGeometry x="9" y="170" width="81" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-3" value="back_end" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
