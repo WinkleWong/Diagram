@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-04T07:14:56.348Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Nj9qexPsqo6ecgnRTyfe" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-04T07:16:51.155Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="qMq_heT5ZQHB9GNYE3SB" version="12.7.9" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1312" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -300,6 +300,9 @@
         </mxCell>
         <mxCell id="7PXRdTP2mNgVB09aPx2Q-159" value="新增user info" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1c1d494c118603dd-3">
           <mxGeometry x="104.5" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7PXRdTP2mNgVB09aPx2Q-161" value="用户使用周友登陆&lt;br&gt;但不希望绑定微信?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1c1d494c118603dd-3">
+          <mxGeometry x="160" y="1140" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-4" value="crm" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
           <mxGeometry x="640" y="20" width="320" height="2440" as="geometry" />
