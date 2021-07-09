@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T07:18:21.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="wLg0vBBG_O11j0SaOeS9" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-09T07:21:24.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="mjNPWK8GDifHJs_uQj6Y" version="14.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -199,19 +199,25 @@
           <mxGeometry x="687.5" y="40" width="55" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3iObHFwWadMs1wE5Qv02-72" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="500" width="160" height="160" as="geometry" />
+          <mxGeometry x="635" y="520" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="3iObHFwWadMs1wE5Qv02-73" value="line 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="540" width="80" height="80" as="geometry" />
+          <mxGeometry x="645" y="560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3iObHFwWadMs1wE5Qv02-74" value="line 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="510" width="80" height="80" as="geometry" />
+          <mxGeometry x="695" y="530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3iObHFwWadMs1wE5Qv02-75" value="line 3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="600" width="50" height="50" as="geometry" />
+          <mxGeometry x="725" y="620" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3iObHFwWadMs1wE5Qv02-78" value="去重的目的&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="670" width="80" height="20" as="geometry" />
+          <mxGeometry x="665" y="690" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3iObHFwWadMs1wE5Qv02-79" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="503.75" y="246.25" width="80" height="347.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3iObHFwWadMs1wE5Qv02-80" value="抽象成 Task 并行处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="478.75" y="470" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
