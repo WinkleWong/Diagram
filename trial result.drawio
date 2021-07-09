@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T07:37:14.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="BPrN2jywFYJutco9vWat" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-09T07:46:08.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="gjPde2o9fXXWTPercOgH" version="14.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -218,6 +218,9 @@
         </mxCell>
         <mxCell id="3iObHFwWadMs1wE5Qv02-80" value="抽成 Task 并行处理, 产生结果: &lt;br&gt;1. 已处理的货品invnt_id登记&lt;br&gt;2. 这批货品处理结果(回款率&amp;amp;金额)&lt;br&gt;3. 试算结果排队写入excel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="460" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3iObHFwWadMs1wE5Qv02-81" value="Q1:&amp;nbsp; 并行处理时, 去重如何保证&lt;br&gt;Q2: 并行处理数据量内存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="555" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
