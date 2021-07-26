@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T07:50:07.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="dnSxkS2Ifp2RL-kOLiri" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T07:50:15.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="_sIyx2-1nL6j_UcWhYOF" version="14.9.2" type="github">
   <diagram id="NrrefUn6etrw0FJBXhrq" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="S4yRV3Bd6E9dYJ-ASUCk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S4yRV3Bd6E9dYJ-ASUCk-20" target="S4yRV3Bd6E9dYJ-ASUCk-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S4yRV3Bd6E9dYJ-ASUCk-20" value="获取design有效信息用于折扣校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S4yRV3Bd6E9dYJ-ASUCk-20" value="提取design有效信息用于折扣校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S4yRV3Bd6E9dYJ-ASUCk-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
