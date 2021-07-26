@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T07:50:15.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="_sIyx2-1nL6j_UcWhYOF" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T07:50:33.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="wE96OqlMdGV13rN-YVDM" version="14.9.2" type="github">
   <diagram id="NrrefUn6etrw0FJBXhrq" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -112,6 +112,9 @@
         </mxCell>
         <mxCell id="S4yRV3Bd6E9dYJ-ASUCk-37" value="比较最优价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S4yRV3Bd6E9dYJ-ASUCk-40" value="end&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1840" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
