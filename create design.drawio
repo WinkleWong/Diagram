@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T07:27:25.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="Hc6X1U8xKXJKlt9owUDx" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T07:29:55.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="3fnzoakzU9M4APk6wEQa" version="14.9.2" type="github">
   <diagram id="Xf4ZF5wkrYaiVRC_AfCz" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -105,6 +105,9 @@
         <mxCell id="j8JlognGdhy3ymL6MY95-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="j8JlognGdhy3ymL6MY95-30" target="j8JlognGdhy3ymL6MY95-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="j8JlognGdhy3ymL6MY95-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="j8JlognGdhy3ymL6MY95-30" target="j8JlognGdhy3ymL6MY95-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j8JlognGdhy3ymL6MY95-30" value="完成设计" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -137,6 +140,18 @@
         </mxCell>
         <mxCell id="j8JlognGdhy3ymL6MY95-45" value="end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1680" y="1390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8JlognGdhy3ymL6MY95-49" value="DIYMP DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="960" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j8JlognGdhy3ymL6MY95-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="j8JlognGdhy3ymL6MY95-52" target="j8JlognGdhy3ymL6MY95-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j8JlognGdhy3ymL6MY95-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="j8JlognGdhy3ymL6MY95-52" target="j8JlognGdhy3ymL6MY95-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j8JlognGdhy3ymL6MY95-52" value="&lt;span&gt;存入购物车表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
