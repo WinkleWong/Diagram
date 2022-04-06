@@ -1,6 +1,6 @@
-<mxfile modified="2022-04-06T03:47:04.125Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="OmVrM7xJrf6O_cQ5EyEo" version="17.4.0" type="github">
+<mxfile modified="2022-04-06T03:52:37.645Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="XhcDF3YkW2L2CA1RZmy3" version="17.4.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1187" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="820" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8RbZft3lkgn_w0pXTObT-6" value="系统用户" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="1">
-          <mxGeometry x="90" y="723" width="78" height="78" as="geometry" />
+          <mxGeometry x="90" y="710" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="8RbZft3lkgn_w0pXTObT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8RbZft3lkgn_w0pXTObT-9" target="8RbZft3lkgn_w0pXTObT-20">
           <mxGeometry relative="1" as="geometry" />
@@ -27,10 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8RbZft3lkgn_w0pXTObT-15" value="用户主机" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" vertex="1" parent="1">
-          <mxGeometry x="231" y="728" width="78" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="8RbZft3lkgn_w0pXTObT-19" value="通过Windows资源管理器&lt;br&gt;访问服务器共享文件夹" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="81" y="573" width="150" height="30" as="geometry" />
+          <mxGeometry x="231" y="700" width="78" height="76" as="geometry" />
         </mxCell>
         <mxCell id="8RbZft3lkgn_w0pXTObT-24" value="Server contents" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="372" width="390" height="291" as="geometry" />
@@ -53,6 +50,9 @@
         </mxCell>
         <mxCell id="8RbZft3lkgn_w0pXTObT-20" value="服务器&lt;br&gt;用户目录" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.file_system;" vertex="1" parent="8RbZft3lkgn_w0pXTObT-24">
           <mxGeometry x="260" y="171.5" width="78" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="8RbZft3lkgn_w0pXTObT-19" value="通过Samba+smb协议&lt;br&gt;搭建服务器共享资源&lt;br&gt;访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8RbZft3lkgn_w0pXTObT-24">
+          <mxGeometry x="10" y="208" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8RbZft3lkgn_w0pXTObT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8RbZft3lkgn_w0pXTObT-26" target="8RbZft3lkgn_w0pXTObT-33">
           <mxGeometry relative="1" as="geometry" />
@@ -148,6 +148,12 @@
         </mxCell>
         <mxCell id="8RbZft3lkgn_w0pXTObT-55" value="接收到解析请求后,&lt;br&gt;根据备份的文件id&lt;br&gt;获取结果文件进行解析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="255" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8RbZft3lkgn_w0pXTObT-57" value="&lt;font style=&quot;font-size: 11px&quot;&gt;解析过程产&lt;br style=&quot;font-size: 11px&quot;&gt;生log回传&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="458" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8RbZft3lkgn_w0pXTObT-58" value="&lt;font style=&quot;font-size: 10px&quot;&gt;解析完成回传&lt;br style=&quot;font-size: 10px&quot;&gt;最终结果更新&lt;br style=&quot;font-size: 10px&quot;&gt;采集记录状态&lt;br style=&quot;font-size: 10px&quot;&gt;和相关信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="670" y="502.5" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
