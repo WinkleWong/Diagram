@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-06T03:59:21.935Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="WMU9-WJ0znUE5nxKYypu" version="17.4.0" type="github">
+<mxfile modified="2022-04-06T05:45:04.686Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="QxzwJ3ipV2BzGJOH7aZH" version="17.4.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1434" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
         <mxCell id="8RbZft3lkgn_w0pXTObT-4" value="检测结果服务" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_service;" vertex="1" parent="8RbZft3lkgn_w0pXTObT-27">
           <mxGeometry x="15.5" y="31" width="39" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="8RbZft3lkgn_w0pXTObT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8RbZft3lkgn_w0pXTObT-32">
+        <mxCell id="8RbZft3lkgn_w0pXTObT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;" edge="1" parent="1" source="8RbZft3lkgn_w0pXTObT-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="443" as="targetPoint" />
             <Array as="points">
